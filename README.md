@@ -7,13 +7,13 @@ Optimization: A Computational Framework"
 
 ### GAMS Examples
 To successfully run the GAMS examples, the following version of GAMS/ReSHOP are required:
-- GAMS 48.2 (not release yet)
+- GAMS 48.2
 - GAMS 48.1 with an updated ReSHOP library found in the `binary` folder for your architecture
 
 ### GAMSPy Examples
 
 To successfully run the GAMSPy examples, the following version of GAMSPy/ReSHOP are required:
-- GAMSPy 1.0.5 (not release yet)
+- GAMSPy 1.0.5
 - GAMSPy 1.0.4 with an updated ReSHOP library found in the `binary` folder for your architecture
 
 GAMSPy can be installed using pip: `pip install gamspy`.
